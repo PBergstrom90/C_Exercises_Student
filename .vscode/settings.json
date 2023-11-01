@@ -1,0 +1,12 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\Users\\Pontu\\_Dev\\Nackademin\\C\\StudentStruct",
+            "binaryPath": "c:\\Users\\Pontu\\_Dev\\Nackademin\\C\\StudentStruct\\main.exe",
+            "binaryArgs": []
+        }
+    ],
+    "files.associations": {
+        "io.h": "c"
+    }
+}
